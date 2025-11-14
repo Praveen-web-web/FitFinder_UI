@@ -151,7 +151,7 @@ export function Footer({ onNavigate }: FooterProps) {
             <ul className="space-y-3 mb-6">
               <li className="flex items-start gap-2 text-slate-300 text-sm">
                 <Mail className="h-4 w-4 mt-0.5 flex-shrink-0 text-primary" />
-                <span>support@testportal.com</span>
+                <span>support@FitFinder.com</span>
               </li>
               <li className="flex items-start gap-2 text-slate-300 text-sm">
                 <Phone className="h-4 w-4 mt-0.5 flex-shrink-0 text-accent" />
@@ -159,7 +159,7 @@ export function Footer({ onNavigate }: FooterProps) {
               </li>
               <li className="flex items-start gap-2 text-slate-300 text-sm">
                 <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0 text-secondary" />
-                <span>123 Innovation Street<br />Tech City, TC 12345</span>
+                <span>123 Innovation Street<br />Agra Tech City, Agra-282006</span>
               </li>
             </ul>
 
@@ -190,7 +190,7 @@ export function Footer({ onNavigate }: FooterProps) {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-400 text-sm text-center md:text-left">
-            © {new Date().getFullYear()} TestPortal. All rights reserved.
+            © {new Date().getFullYear()} FitFinder. All rights reserved.
           </p>
           <div className="flex flex-wrap justify-center gap-6 text-sm">
             <button className="text-slate-400 hover:text-white transition-colors">

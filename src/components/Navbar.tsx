@@ -29,7 +29,7 @@ export function Navbar({ currentPage, onNavigate }: NavbarProps) {
               <GraduationCap className="h-6 w-6 lg:h-7 lg:w-7 text-white" />
             </div>
             <span className="text-xl lg:text-2xl bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              TestPortal
+              FitFinder
             </span>
           </div>
 

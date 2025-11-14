@@ -54,8 +54,8 @@ export function ContactUs() {
                   <Mail className="h-7 w-7 sm:h-8 sm:w-8 text-white" />
                 </div>
                 <h3 className="text-lg sm:text-xl">Email</h3>
-                <p className="text-muted-foreground text-sm">support@testportal.com</p>
-                <p className="text-muted-foreground text-sm">info@testportal.com</p>
+                <p className="text-muted-foreground text-sm">support@FitFinder.com</p>
+                <p className="text-muted-foreground text-sm">info@FitFinder.com</p>
               </CardContent>
             </Card>
 
@@ -67,7 +67,7 @@ export function ContactUs() {
                 <h3 className="text-lg sm:text-xl">Phone</h3>
                 <p className="text-muted-foreground text-sm">+1 (555) 123-4567</p>
                 <p className="text-muted-foreground text-sm flex items-center justify-center gap-1">
-                  <Clock className="h-3 w-3" /> Mon-Fri 9am-6pm EST
+                  <Clock className="h-3 w-3" /> Mon-Fri 9am-6pm IST
                 </p>
               </CardContent>
             </Card>
@@ -79,7 +79,7 @@ export function ContactUs() {
                 </div>
                 <h3 className="text-lg sm:text-xl">Office</h3>
                 <p className="text-muted-foreground text-sm">123 Innovation Street</p>
-                <p className="text-muted-foreground text-sm">Tech City, TC 12345</p>
+                <p className="text-muted-foreground text-sm">Agra Tech City, Agra-282006</p>
               </CardContent>
             </Card>
           </div>

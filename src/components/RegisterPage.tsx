@@ -55,7 +55,7 @@ export function RegisterPage({ onNavigate }: RegisterPageProps) {
           <div className="text-center mb-6 md:mb-8 space-y-3">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 rounded-full border border-primary/20 mb-2">
               <Sparkles className="h-4 w-4 text-primary" />
-              <span className="text-sm text-primary">Join TestPortal Today</span>
+              <span className="text-sm text-primary">Join FitFinder Today</span>
             </div>
             <h1 className="text-3xl sm:text-4xl md:text-5xl bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
               Create Your Account

@@ -20,7 +20,7 @@ export function AboutUs() {
               <span className="text-sm text-primary">Our Story</span>
             </div>
             <h1 className="text-4xl sm:text-5xl md:text-6xl bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-              About TestPortal
+              About FitFinder
             </h1>
             <p className="text-lg sm:text-xl lg:text-2xl text-muted-foreground max-w-3xl mx-auto">
               Bridging the gap between talented students and forward-thinking companies through innovative assessment solutions
@@ -34,7 +34,7 @@ export function AboutUs() {
                 Our Mission
               </h2>
               <p className="text-base sm:text-lg lg:text-xl text-muted-foreground leading-relaxed mb-4">
-                At TestPortal, we're revolutionizing the way students connect with potential employers. Our platform provides a streamlined, efficient, and fair assessment process that benefits everyone involved.
+                At FitFinder, we're revolutionizing the way students connect with potential employers. Our platform provides a streamlined, efficient, and fair assessment process that benefits everyone involved.
               </p>
               <p className="text-base sm:text-lg lg:text-xl text-muted-foreground leading-relaxed">
                 We believe that talent deserves to be recognized, and companies deserve access to the best candidates. Our comprehensive testing and filtering system ensures that only the most qualified students advance, while providing companies with detailed insights to make informed hiring decisions.
