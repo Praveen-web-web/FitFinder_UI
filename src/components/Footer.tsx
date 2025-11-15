@@ -33,7 +33,7 @@ export function Footer({ onNavigate }: FooterProps) {
                 <GraduationCap className="h-6 w-6 text-white" />
               </div>
               <span className="text-2xl bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-                TestPortal
+                FitFinder
               </span>
             </div>
             <p className="text-slate-300 text-sm leading-relaxed">

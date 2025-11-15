@@ -1,6 +1,8 @@
-@tailwind base;
+
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
+@import "tailwindcss";
 
 @import './styles/globals.css';
 
@@ -12,7 +14,7 @@
     @apply bg-background text-foreground;
   }
 } */
-
+/* 
 @layer utilities {
   .border-border {
     border-color: theme('colors.black');
@@ -63,7 +65,7 @@
   .text-card-foreground {
     color: var(--card-foreground);
   }
-}
+} */
 
 
 

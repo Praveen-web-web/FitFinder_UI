@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import './index.css';
 import { Toaster } from './components/ui/sonner';
 import { Navbar } from './components/Navbar';
 import { HomePage } from './components/HomePage';
